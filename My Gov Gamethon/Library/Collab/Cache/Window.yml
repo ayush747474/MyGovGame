@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/PlayerFolder.meta
+    - Assets/PlayerFolder/Animations.meta
+    - Assets/PlayerFolder/Animations/LeftIdleAnime.anim
+    - Assets/PlayerFolder/Animations/LeftIdleAnime.anim.meta
+    - Assets/PlayerFolder/Animations/RightIdleAnime.anim
+    - Assets/PlayerFolder/Animations/RightIdleAnime.anim.meta
+    - Assets/PlayerFolder/Animations/RunningLeftAnime.anim
+    - Assets/PlayerFolder/Animations/RunningLeftAnime.anim.meta
+    - Assets/PlayerFolder/Animations/RunningRightAnime.anim
+    - Assets/PlayerFolder/Animations/RunningRightAnime.anim.meta
+    - Assets/PlayerFolder/Animations/idleRight1.controller
+    - Assets/PlayerFolder/Animations/idleRight1.controller.meta
+    - Assets/PlayerFolder/Animations/idleRight3.controller
+    - Assets/PlayerFolder/Animations/idleRight3.controller.meta
+    - Assets/PlayerFolder/IdleLeft.meta
+    - Assets/PlayerFolder/IdleLeft/idleLeft1.png
+    - Assets/PlayerFolder/IdleLeft/idleLeft1.png.meta
+    - Assets/PlayerFolder/IdleLeft/idleLeft2.png
+    - Assets/PlayerFolder/IdleLeft/idleLeft2.png.meta
+    - Assets/PlayerFolder/IdleLeft/idleLeft3.png
+    - Assets/PlayerFolder/IdleLeft/idleLeft3.png.meta
+    - Assets/PlayerFolder/IdleRight.meta
+    - Assets/PlayerFolder/IdleRight/idleRight1.png
+    - Assets/PlayerFolder/IdleRight/idleRight1.png.meta
+    - Assets/PlayerFolder/IdleRight/idleRight2.png
+    - Assets/PlayerFolder/IdleRight/idleRight2.png.meta
+    - Assets/PlayerFolder/IdleRight/idleRight3.png
+    - Assets/PlayerFolder/IdleRight/idleRight3.png.meta
+    - Assets/PlayerFolder/RunningLeft.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft1.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft1.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft2.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft2.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft3.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft3.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft4.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft4.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft5.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft5.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft6.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft6.png.meta
+    - Assets/PlayerFolder/RunningLeft/RunningLeft7.png
+    - Assets/PlayerFolder/RunningLeft/RunningLeft7.png.meta
+    - Assets/PlayerFolder/RunningRight.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight2.png
+    - Assets/PlayerFolder/RunningRight/RunningRight2.png.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight3.png
+    - Assets/PlayerFolder/RunningRight/RunningRight3.png.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight4.png
+    - Assets/PlayerFolder/RunningRight/RunningRight4.png.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight5.png
+    - Assets/PlayerFolder/RunningRight/RunningRight5.png.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight6.png
+    - Assets/PlayerFolder/RunningRight/RunningRight6.png.meta
+    - Assets/PlayerFolder/RunningRight/RunningRight7.png
+    - Assets/PlayerFolder/RunningRight/RunningRight7.png.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/LevelDemo.unity
+    - Assets/Scenes/LevelDemo.unity.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/PlayerMove.cs
+    - Assets/Scripts/PlayerMove.cs.meta
+    - Packages/manifest.json
+    - Packages/manifest.json.private.0
+    - Packages/packages-lock.json
+    - Packages/packages-lock.json.private.0
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
